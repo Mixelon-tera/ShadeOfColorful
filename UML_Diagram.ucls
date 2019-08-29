@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="entity.Beam" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/entity/Beam.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1244" y="223"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="entity.Sheep" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/entity/Sheep.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1244" y="506"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="3" language="java" name="render.IRenderable" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/render/IRenderable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1510" y="134"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="4" language="java" name="entity.Wolf" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/entity/Wolf.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1653" y="601"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="render.Button" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/render/Button.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1925" y="441"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="render.GameBackground" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/render/GameBackground.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1765" y="157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="javax.swing.JFrame" project="ShadeOfColorful-Complete" 
+    file="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar" binary="true" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1940" y="1136"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="render.GameWindow" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/render/GameWindow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1662" y="1120"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="javax.swing.JPanel" project="ShadeOfColorful-Complete" 
+    file="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar" binary="true" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1616" y="1730"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="render.GameOver" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/render/GameOver.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1404" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="render.GameScreen" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/render/GameScreen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1890" y="1676"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="render.GameTitle" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/render/GameTitle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1634" y="2076"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="render.HighScore" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/render/HighScore.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1906" y="1876"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="render.HowToPlay" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/render/HowToPlay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1312" y="1732"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="entity.GameLogic" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/entity/GameLogic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1445" y="917"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="entity.PlayerStatus" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/entity/PlayerStatus.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1456" y="441"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="input.InputUtility" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/input/InputUtility.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1222" y="1010"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="Main.Main" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/Main/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1652" y="972"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="render.AudioUtility" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/render/AudioUtility.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1412" y="1428"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="20" language="java" name="java.lang.Comparable" project="ShadeOfColorful-Complete" 
+    file="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar" binary="true" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1348" y="2216"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="21" language="java" name="render.HighScoreUtility.HighScoreRecord" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/render/HighScoreUtility.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1355" y="2444"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="render.HighScoreUtility" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/render/HighScoreUtility.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1638" y="2440"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="render.NewColor" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/render/NewColor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1906" y="2120"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="render.RenderableHolder" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/render/RenderableHolder.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1635" y="1429"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="render.Resource" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/render/Resource.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2256" y="1568"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="java.lang.Exception" project="ShadeOfColorful-Complete" 
+    file="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar" binary="true" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1968" y="2400"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="render.ScoreFormatException" project="ShadeOfColorful-Complete" 
+    file="/ShadeOfColorful-Complete/src/render/ScoreFormatException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1976" y="2580"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="28">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <realization id="29">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <realization id="30">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <realization id="31">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <realization id="32">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <generalization id="33">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <realization id="34">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <realization id="35">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <generalization id="37">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <nesting id="38">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="21"/>  
+  </nesting>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <generalization id="40">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <realization id="41">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <generalization id="42">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <generalization id="43">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="false" multiplicity="false"/>
+</class-diagram>
